@@ -10,31 +10,31 @@
 
 </div>
 
-Welcome to **Mugen-Builders**, a community-driven initiative that provides resources and information to developers exploring **Cartesi Rollups** technology. **Mugen**, a realm or plane of existence that contains an infinite space.
+Welcome to **Mugen-Builders**, a community-driven initiative that provides resources and information to developers exploring **Cartesi Rollups** technology. **Mugen** is a realm or plane of existence containing infinite space.
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/Mugen-Builders/.github/assets/153661799/7d329749-d5ed-4aa3-a557-08054d7f9c40)
 
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/7ed08d4c-89f4-4bde-a635-0b332affbd5d" width="30" height="30">  About Cartesi Rollups
-Cartesi Rollups is an innovative layer-2 solution for scalable smart contracts, offering a unique blend of on-chain and off-chain computation. It opens up new possibilities for developing decentralized applications with real-world computations, without compromising on decentralization.
+Cartesi Rollups is an innovative layer-2 solution for scalable smart contracts, offering a unique blend of on-chain and off-chain computation. It opens up new possibilities for developing decentralized applications with real-world computations without compromising decentralization.
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/4fa727b3-2bc2-4606-b9db-cead22407a12" width="30" height="30">  Who "are you"?
 
-| I am fresh new. I don't even know where to start | I just started, but i wan't some guidance | I'm experienced, just want some fresh inspiration |
+| I am fresh new. I don't even know where to start | I just started, but I want some guidance | I'm experienced, just want some fresh inspiration |
 | ----------------------- | ------------------------| -----------------------|
-| I welcome you to Mugen. Please, check the [Quick Start Guide](#quick-start-guide) section. | Welcome back! What about seeing some pratical examples? See the [Resources and Tools](#resources-and-tools) section and start building! | Welcome back :gem:! Want some inspiration? What about see whats being building right now? See the [Rolluplab.io](https://rolluplab.io/) in the [Resources and Tools](#resources-and-tools) section. What about seeing **what is under the hood?** Please, check out the [Core units featured repositories](#core-units-featured-repositories).|
+| I welcome you to Mugen. Please check the [Quick Start Guide](#-quick-start-guide) section. | Welcome back! What about seeing some practical examples? See the [Resources and Tools](#-resources-and-tools) section and start building! | Welcome back, :gem:! Want some inspiration? What about seeing what's being built right now? See the [Rolluplab.io](https://rolluplab.io/) in the [Resources and Tools](#-resources-and-tools) section. What about seeing **what is under the hood?** Please check out the [Core units featured repositories](#-core-units-featured-repositories).|
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/72c42ee2-a009-46b4-8497-91d1a73ff8c4" width="40" height="40"> Featured Repositories
-Explore our curated list of repositories in Mugen domain:
-- [Simple Calculator](https://github.com/Mugen-Builders/calculator) - The dApp processes arithmetic expressions encoded in hex format and returns the results as a notice in a similar format..
-- [Fortune dApp](https://github.com/Mugen-Builders/fortune) - Built with Python, the dApp displays random quotes from a set of predefined lists using the Linux fortune package.
+Explore our curated list of repositories in the Mugen domain:
+- [Simple Calculator](https://github.com/Mugen-Builders/calculator) - The dApp processes arithmetic expressions encoded in hex format and returns the results as a notice in a similar format.
+- [Fortune dApp](https://github.com/Mugen-Builders/fortune) - Built with Python, the dApp displays random quotes from predefined lists using the Linux fortune package.
 
 ##  <img src="https://github.com/Mugen-Builders/.github/assets/153661799/0d1a99d2-d0a3-468a-be51-20554f3da909" width="30" height="30"> Quick Start Guide
 - **Step 1:** Get started with [Getting Started Guide](https://github.com/cartesi/DevGuide) - Where you can configure your environment "from zero to hero" style. Available for Windows, Linux and MacOS.
 - **Step 2:** Explore [Sunodo Examples](https://github.com/cartesi/sunodo-examples) - For the basic examples provided by cartesi.
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Resources and Tools
-- [Cartesi Rollups Documentation](docs.cartesi.io) - Comprehensive guides and API references. Everything technical detailed.
+- [Cartesi Rollups Documentation](docs.cartesi.io) - Comprehensive guides and API references. Everything technical is detailed.
 - [Sunodo](https://docs.sunodo.io/) - Sunodo is a Cartesi Rollups as a Service platform and a set of tools to improve the development workflow of Cartesi applications.
 - [Rolluplab.io](https://rolluplab.io/) - Cartesi community’s repository of proof of concepts, hackathon projects, and experimental DApps developed with Cartesi Rollups.The best place to get inspired!
 
@@ -44,8 +44,8 @@ Explore our curated list of repositories in Mugen domain:
 - [Cartesi Rollups Node](https://github.com/cartesi/rollups-node) - The Cartesi Node is the part of the Cartesi Rollups Framework that is responsible for handling the communication between the on-chain smart contracts and the Cartesi Machine.
 - [Cartesi Rollups Contracts](https://github.com/cartesi/rollups-contracts) - This repository contains the on-chain part of Cartesi Rollups.
 
-## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/e678326a-9ae4-48a9-9c64-aae11a83ef56" width="30" height="30"> What if i just want to grab a coffee and watch some very good stuff about cartesi? <img src="https://github.com/Mugen-Builders/.github/assets/153661799/e678326a-9ae4-48a9-9c64-aae11a83ef56" width="30" height="30">
-We got you! Check below a some great talks about Cartesi Rollups! Now you only need the coffee ☕.
+## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/e678326a-9ae4-48a9-9c64-aae11a83ef56" width="30" height="30"> What if I just want to grab a coffee and watch some very good stuff about cartesi? <img src="https://github.com/Mugen-Builders/.github/assets/153661799/e678326a-9ae4-48a9-9c64-aae11a83ef56" width="30" height="30">
+We got you! Check below for some great talks about Cartesi Rollups! Now you only need the coffee ☕.
 
 <table>
   <tbody>
