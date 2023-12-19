@@ -34,7 +34,7 @@ Explore our curated list of repositories in the Mugen domain:
 - **Step 2:** Explore <a href= https://github.com/cartesi/sunodo-examples target="_blank">Sunodo Examples</a> - For the basic examples provided by cartesi.
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Resources and Tools
-- <a href= docs.cartesi.io target="_blank">Cartesi Documentation</a> - Comprehensive guides and API references. Where Everything technical is detailed.
+- <a href= https://docs.cartesi.io target="_blank">Cartesi Documentation</a> - Comprehensive guides and API references. Where Everything technical is detailed.
 - <a href= https://docs.sunodo.io/ target="_blank">Sunodo Documentation</a> - Sunodo is the most convenient way of building Cartesi applications, from bootstrapping to deploying to a live network. Everything is made easier with a powerful CLI tool.
 - <a href= https://github.com/gbarros/awesome-cartesi target="_blank">Awesome Cartesi </a> - List of amazing things to learn, build and try with Cartesi Rollups.
 - <a href= https://rolluplab.io/ target="_blank">RollupLab.io</a> - Cartesi community’s repository of proof of concepts, hackathon projects, and experimental DApps developed with Cartesi Rollups.The best place to get inspired!
