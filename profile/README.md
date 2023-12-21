@@ -76,7 +76,7 @@ Do you have questions or suggestions? Contact us at [marcus@mugen.builders](mail
 ---
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/2f689c1c-5604-4ed5-9cc8-442896c3441e" width="30" height="30"> Social Media
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcartesiproject&style=social&label=Cartesi)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJ2As__5GSeP6yPBGPbzSOw?style=social&label=Cartesiproject)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcartesiproject&style=social&label=Cartesi)](https://twitter.com/cartesiproject)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJ2As__5GSeP6yPBGPbzSOw?style=social&label=Cartesiproject)](https://www.youtube.com/@Cartesiproject)
 
 &copy; 2023 Mugen-Builders 
