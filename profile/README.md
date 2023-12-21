@@ -48,12 +48,18 @@ Explore our curated list of repositories in the Mugen domain:
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/e678326a-9ae4-48a9-9c64-aae11a83ef56" width="30" height="30"> What if I just want to grab a coffee and watch some very good stuff about cartesi? <img src="https://github.com/Mugen-Builders/.github/assets/153661799/e678326a-9ae4-48a9-9c64-aae11a83ef56" width="30" height="30">
 We got you! Check below for some great talks about Cartesi Rollups! Now you only need the coffee ☕.
 
+![image]()
+
 <table>
   <tbody>
+    <tr><td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/bfe9569c-5dde-4ade-9102-265756a40245"></a></td>
+<td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank">Gabriel Barros: Living on Blockchain </a><br/>Dec 21, 2023</td></tr>
+    <tr><td><a href="https://open.spotify.com/episode/66lW556c5Mb3HP8T8as9R3?si=Nb_YQDTTR7OVNFnDQy4Ong&nd=1&dlsi=7cc130de11404bdc" target="_blank"><img width="140px" src=https://github.com/Mugen-Builders/.github/assets/153661799/07562c2f-51c4-4ab2-81c3-9fadffebe0dc></a></td>
+<td><a href="https://open.spotify.com/episode/66lW556c5Mb3HP8T8as9R3?si=Nb_YQDTTR7OVNFnDQy4Ong&nd=1&dlsi=7cc130de11404bdc" target="_blank">Jathin JAGANNATH: Crypto Hipster </a><br/>Dec 18, 2023</td></tr>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Nl-loihsT4k" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/Nl-loihsT4k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Nl-loihsT4k" target="_blank"> Brave New Coin: Gabriel Barros </a><br/>Dec 11, 2023</td></tr>
+<td><a href="https://www.youtube.com/watch?v=Nl-loihsT4k" target="_blank"> Gabriel Barros : Brave New Coin  </a><br/>Dec 11, 2023</td></tr>
     <tr><td><a href="https://open.spotify.com/episode/0wNbblabYJ7cQxIMgYVM6d?si=zP9LWqB6Rr6pRPq9SBHQbw&nd=1&dlsi=111e5585cf1542ab" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/cd6e85dd-632b-4f90-8dfe-fab0fa679e87"></a></td>
-<td><a href="https://open.spotify.com/episode/0wNbblabYJ7cQxIMgYVM6d?si=zP9LWqB6Rr6pRPq9SBHQbw&nd=1&dlsi=111e5585cf1542ab" target="_blank">Blockhash: João Garcia </a><br/>Dec 5, 2023</td></tr>
+<td><a href="https://open.spotify.com/episode/0wNbblabYJ7cQxIMgYVM6d?si=zP9LWqB6Rr6pRPq9SBHQbw&nd=1&dlsi=111e5585cf1542ab" target="_blank">João Garcia : Blockhash  </a><br/>Dec 5, 2023</td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=F7gSTnXRwJQ" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/F7gSTnXRwJQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F7gSTnXRwJQ" target="_blank">Gabriel Barros: ETH Istanbul </a><br/>Nov 24, 2023</td></tr>
 <!-- YOUTUBE:END -->
