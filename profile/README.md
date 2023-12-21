@@ -48,8 +48,6 @@ Explore our curated list of repositories in the Mugen domain:
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/e678326a-9ae4-48a9-9c64-aae11a83ef56" width="30" height="30"> What if I just want to grab a coffee and watch some very good stuff about cartesi? <img src="https://github.com/Mugen-Builders/.github/assets/153661799/e678326a-9ae4-48a9-9c64-aae11a83ef56" width="30" height="30">
 We got you! Check below for some great talks about Cartesi Rollups! Now you only need the coffee ☕.
 
-![image]()
-
 <table>
   <tbody>
     <tr><td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/bfe9569c-5dde-4ade-9102-265756a40245"></a></td>
