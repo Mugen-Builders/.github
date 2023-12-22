@@ -64,6 +64,12 @@ We got you! Check below for some great talks about Cartesi Rollups! Now you only
 </tbody>
   </table>
 
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" height="30"> Developer opportunities - DevAd Seed Grants
+
+We are here to fuel your passion for innovation in the Web3 space. Our program offers a gateway to endless opportunities, funding, and mentorship for developers like you. Whether you're a junior developer building your career in web3 or an experienced builder, you'll find a supportive team of professionals ready to turn your talent into amazing tools and applications.
+
+Check this [link](https://mugenbuilders.notion.site/DevAd-Seed-Grants-dc0a2420a08c49a983b919aa9246dcbc) to access all information needed about the Seed Grants.
+
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/a5c9e6da-02ad-4463-96d3-ae0b37bba627" width="30" height="30"> Community and Support
 Join our **vibrant community**:
 
