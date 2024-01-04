@@ -22,7 +22,7 @@ Cartesi Rollups is an innovative layer-2 solution for scalable smart contracts, 
 
 | I am fresh new. I don't even know where to start | I just started, but I want some guidance | I'm experienced, just want some fresh inspiration |
 | ----------------------- | ------------------------| -----------------------|
-| I welcome you to Mugen. Please check the <a href="https://github.com/cartesi/DevGuide" target="_blank">Dev Guide</a>. And also, you can check the [Quick Start Guide](#-quick-start-guide) section. | Welcome back! What about seeing some practical examples? See the [Resources and Tools](#-resources-and-tools) section and start building! | Welcome back, :gem:! Want some inspiration? What about seeing what's being built right now? See the [Rolluplab.io](https://rolluplab.io/) in the [Resources and Tools](#-resources-and-tools) section. What about seeing **what is under the hood?** Please check out the [Core units featured repositories](#-core-units-featured-repositories).|
+| I welcome you to Mugen. Please check the <a href="https://github.com/cartesi/DevGuide" target="_blank">Dev Guide</a>. You can also check the [Quick Start Guide](#-quick-start-guide) section. | Welcome back! What about seeing some practical examples? See the [Resources and Tools](#-resources-and-tools) section and start building! | Welcome back, :gem:! Want some inspiration? What about seeing what's being built right now? See the [Rolluplab.io](https://rolluplab.io/) in the [Resources and Tools](#-resources-and-tools) section. What about seeing **what is under the hood?** Please check out the [Core units featured repositories](#-core-units-featured-repositories).|
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/72c42ee2-a009-46b4-8497-91d1a73ff8c4" width="40" height="40"> Featured Repositories
 Explore our curated list of repositories in the Mugen domain:
@@ -34,8 +34,8 @@ Explore our curated list of repositories in the Mugen domain:
 - **Step 2:** Explore <a href= https://github.com/cartesi/sunodo-examples target="_blank">Sunodo Examples</a> - For the basic examples provided by cartesi.
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Resources and Tools
-- <a href= https://docs.cartesi.io target="_blank">Cartesi Documentation</a> - Comprehensive guides and API references. Where Everything technical is detailed.
-- <a href= https://docs.sunodo.io/ target="_blank">Sunodo Documentation</a> - Sunodo is the most convenient way of building Cartesi applications, from bootstrapping to deploying to a live network. Everything is made easier with a powerful CLI tool.
+- <a href= https://docs.cartesi.io target="_blank">Cartesi Documentation</a> - Comprehensive guides and API references. Where everything technical is detailed.
+- <a href= https://docs.sunodo.io/ target="_blank">Sunodo Documentation</a> - Sunodo is the most convenient way of building Cartesi applications, from bootstrapping to deploying to a live network. Everything is made more accessible with a powerful CLI tool.
 - <a href= https://github.com/gbarros/awesome-cartesi target="_blank">Awesome Cartesi </a> - List of amazing things to learn, build and try with Cartesi Rollups.
 - <a href= https://rolluplab.io/ target="_blank">RollupLab.io</a> - Cartesi community’s repository of proof of concepts, hackathon projects, and experimental DApps developed with Cartesi Rollups.The best place to get inspired!
 
@@ -64,11 +64,16 @@ We got you! Check below for some great talks about Cartesi Rollups! Now you only
 </tbody>
   </table>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" height="30"> Developer opportunities - DevAd Seed Grants
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" height="30"> Developer opportunities
 
+### <img src="https://github.com/Mugen-Builders/.github/assets/153661799/aa6baa92-f04d-45cd-ba51-bef1f22e02e5" width="50px" /> DevAd Seed Grants
 We are here to fuel your passion for innovation in the Web3 space. Our program offers a gateway to endless opportunities, funding, and mentorship for developers like you. Whether you're a junior developer building your career in web3 or an experienced builder, you'll find a supportive team of professionals ready to turn your talent into amazing tools and applications.
 
 Check this [link](https://mugenbuilders.notion.site/DevAd-Seed-Grants-dc0a2420a08c49a983b919aa9246dcbc) to access all information needed about the Seed Grants.
+
+### <img src="https://github.com/Mugen-Builders/.github/assets/153661799/69f2b8f0-7548-44e5-87e1-8ca490fccea1" width="30" height="30"> Community Grants Program
+
+Would you like to take on a greater challenge? The Cartesi Community Grants Program is dedicated to funding projects that promote the sustainable growth of the Cartesi ecosystem, primarily focusing on public goods projects, reusable infrastructure, and reusable DApp components. Check this [link](https://governance.cartesi.io/t/review-process-rules-and-guidelines/21) for more information about the CGP!
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/a5c9e6da-02ad-4463-96d3-ae0b37bba627" width="30" height="30"> Community and Support
 Join our **vibrant community**:
