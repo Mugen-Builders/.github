@@ -73,7 +73,7 @@ Check this [link](https://mugenbuilders.notion.site/DevAd-Seed-Grants-dc0a2420a0
 
 ### <img src="https://github.com/Mugen-Builders/.github/assets/153661799/69f2b8f0-7548-44e5-87e1-8ca490fccea1" width="30" height="30"> Community Grants Program
 
-Would you like to take on a greater challenge? The Cartesi Community Grants Program is dedicated to funding projects that promote the sustainable growth of the Cartesi ecosystem, primarily focusing on public goods projects, reusable infrastructure, and reusable DApp components. Check this [link]([https://governance.cartesi.io/t/review-process-rules-and-guidelines/21](https://app.charmverse.io/cartesi-grants-program/cartesi-grants-program-30627419508637854)) for more information about the CGP!
+Would you like to take on a greater challenge? The Cartesi Community Grants Program is dedicated to funding projects that promote the sustainable growth of the Cartesi ecosystem, primarily focusing on public goods projects, reusable infrastructure, and reusable DApp components. Check this [link](https://app.charmverse.io/cartesi-grants-program/cartesi-grants-program-30627419508637854) for more information about the CGP!
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/a5c9e6da-02ad-4463-96d3-ae0b37bba627" width="30" height="30"> Community and Support
 Join our **vibrant community**:
