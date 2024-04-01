@@ -50,6 +50,8 @@ We got you! Check below for some great talks about Cartesi Rollups! Now you only
 
 <table>
   <tbody>
+     <tr><td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/-GAYu_KI-R8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank">João Garcia: ETH Denver </a><br/>Mar 18, 2024</td></tr>
     <tr><td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/bfe9569c-5dde-4ade-9102-265756a40245"></a></td>
 <td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank">Gabriel Barros: Living on Blockchain </a><br/>Dec 21, 2023</td></tr>
     <tr><td><a href="https://open.spotify.com/episode/66lW556c5Mb3HP8T8as9R3?si=Nb_YQDTTR7OVNFnDQy4Ong&nd=1&dlsi=7cc130de11404bdc" target="_blank"><img width="140px" src=https://github.com/Mugen-Builders/.github/assets/153661799/07562c2f-51c4-4ab2-81c3-9fadffebe0dc></a></td>
