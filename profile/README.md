@@ -21,7 +21,7 @@ Cartesi Rollups is an innovative layer-2 solution for scalable smart contracts, 
 
 | I am fresh new. I don't even know where to start | I just started, but I want some guidance | I'm experienced, just want some fresh inspiration |
 | ----------------------- | ------------------------| -----------------------|
-| I welcome you to Mugen. Please check the [Cartesi Quickstart Guide](https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/). | What about seeing some practical examples? See the [Resources](#-resources) and  [Tools](#-tools) sections! |  Want some inspiration? What about seeing what's being built right now? See the [Rolluplab.io](https://rolluplab.io/). What about seeing **what is under the hood?** Please check out the [Core infrastructure repositories](#-core-infrastructure-repositories).|
+| I welcome you to Mugen. Please check the [Cartesi Quickstart Guide](https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/). For a quick playaround, you can check this repo [QuickEnvironment Cartesi](https://github.com/Mugen-Builders/QuickEnvironmentCartesi).| What about seeing some practical examples? See the [Resources](#-resources) and  [Tools](#-tools) sections! |  Want some inspiration? What about seeing what's being built right now? See the [Rolluplab.io](https://rolluplab.io/). What about seeing **what is under the hood?** Please check out the [Core infrastructure repositories](#-core-infrastructure-repositories).|
 
 ##  <img src="https://github.com/Mugen-Builders/.github/assets/153661799/0d1a99d2-d0a3-468a-be51-20554f3da909" width="30" height="30"> Quickstart Guide
 - **Step 1:** Explore <a href= https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/ target="_blank">Cartesi Quickstart Guide</a> - For the basic understanding of Cartesi Rollups.
@@ -42,7 +42,7 @@ Cartesi Rollups is an innovative layer-2 solution for scalable smart contracts, 
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Tools
 
-- [Sunodo](https://docs.sunodo.io/ )  - A CLI tool to bootstrap, build and deploy Cartesi applications.
+- [Cartesi CLI](https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/)  - A CLI tool to bootstrap, build and deploy Cartesi applications.
 
 - [NoNodo](https://github.com/gligneul/nonodo) - A lightweight development tool for Cartesi applications.
 
