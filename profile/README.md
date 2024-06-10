@@ -44,9 +44,9 @@ Cartesi Rollups is an innovative layer-2 solution for scalable smart contracts, 
 
 - [Cartesi CLI](https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/)  - A CLI tool to bootstrap, build and deploy Cartesi applications.
 
-- [NoNodo](https://github.com/gligneul/nonodo) - A lightweight development tool for Cartesi applications.
+- [NoNodo](https://github.com/Calindra/nonodo) - A lightweight development tool for Cartesi applications.
 
- - [Deroll](https://github.com/tuler/deroll): TypeScript framework for building on Cartesi.
+- [Deroll](https://github.com/tuler/deroll): TypeScript framework for building on Cartesi.
 
 - [python-cartesi](https://github.com/prototyp3-dev/python-cartesi): Python framework for building on Cartesi.
 
