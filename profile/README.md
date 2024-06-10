@@ -25,7 +25,7 @@ Cartesi Rollups is an innovative layer-2 solution for scalable smart contracts, 
 
 ##  <img src="https://github.com/Mugen-Builders/.github/assets/153661799/0d1a99d2-d0a3-468a-be51-20554f3da909" width="30" height="30"> Quickstart Guide
 - **Step 1:** Explore <a href= https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/ target="_blank">Cartesi Quickstart Guide</a> - For the basic understanding of Cartesi Rollups.
-- **Step 2:** Explore <a href= https://github.com/cartesi/sunodo-examples target="_blank">Sunodo Examples</a> - For the basic examples provided by cartesi.
+- **Step 2:** Explore <a href= https://github.com/cartesi/application-templates target="_blank">Cartesi Application Templates</a> - For the basic examples provided by cartesi.
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Resources 
 
@@ -74,25 +74,41 @@ We got you! Check below for some great talks about Cartesi Rollups!
 
 <table>
   <tbody>
-     <tr><td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/-GAYu_KI-R8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank">João Garcia: ETH Denver </a><br/>Mar 18, 2024</td></tr>
+    <tr>
+      <td><a href="https://open.spotify.com/episode/1tObwSlu4shEiJXmpQWCrz?si=dd1669b9f58e412a" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/4421825/1b32c615-7aee-4974-afe4-03b4c774efba"></a></td>
+      <td><a href="https://open.spotify.com/episode/1tObwSlu4shEiJXmpQWCrz?si=dd1669b9f58e412a" target="_blank">João Garcia: The Web3 Quick Bites</a><br/>May 02, 2024</td> 
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/-GAYu_KI-R8/mqdefault.jpg"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank">João Garcia: ETH Denver</a><br/>Mar 18, 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank"><img width="140px" src="https://elmerlar.sirv.com/shaheen-thumbnil.jpg"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank">Shaheen Ahmed: AMA with Humans</a><br/>Mar 15, 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/bfe9569c-5dde-4ade-9102-265756a40245"></a></td>
+      <td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank">Gabriel Barros: Living on Blockchain</a><br/>Dec 21, 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://open.spotify.com/episode/66lW556c5Mb3HP8T8as9R3?si=Nb_YQDTTR7OVNFnDQy4Ong&nd=1&dlsi=7cc130de11404bdc" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/07562c2f-51c4-4ab2-81c3-9fadffebe0dc"></a></td>
+      <td><a href="https://open.spotify.com/episode/66lW556c5Mb3HP8T8as9R3?si=Nb_YQDTTR7OVNFnDQy4Ong&nd=1&dlsi=7cc130de11404bdc" target="_blank">Jathin Jagannath: Crypto Hipster</a><br/>Dec 18, 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=Nl-loihsT4k" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/Nl-loihsT4k/mqdefault.jpg"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=Nl-loihsT4k" target="_blank">Gabriel Barros : Brave New Coin</a><br/>Dec 11, 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://open.spotify.com/episode/0wNbblabYJ7cQxIMgYVM6d?si=zP9LWqB6Rr6pRPq9SBHQbw&nd=1&dlsi=111e5585cf1542ab" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/cd6e85dd-632b-4f90-8dfe-fab0fa679e87"></a></td>
+      <td><a href="https://open.spotify.com/episode/0wNbblabYJ7cQxIMgYVM6d?si=zP9LWqB6Rr6pRPq9SBHQbw&nd=1&dlsi=111e5585cf1542ab" target="_blank">João Garcia: Blockhash</a><br/>Dec 5, 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=F7gSTnXRwJQ" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/F7gSTnXRwJQ/mqdefault.jpg"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=F7gSTnXRwJQ" target="_blank">Gabriel Barros: ETH Istanbul</a><br/>Nov 24, 2023</td>
+    </tr>
+  </tbody>
+</table>
 
- <tr><td><a href="https://www.youtube.com/watch?v=-GAYu_KI-R8" target="_blank"><img width="140px" src="https://elmerlar.sirv.com/shaheen-thumbnil.jpg"></a></td>
- 
-<td><a href="" target="_blank">Shaheen Ahmed: AMA with Humans </a><br/>Mar 15, 2024</td></tr>
-    <tr><td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/bfe9569c-5dde-4ade-9102-265756a40245"></a></td>
-<td><a href="https://open.spotify.com/show/7rS3zKKWuUyiSkVa2kgMsP" target="_blank">Gabriel Barros: Living on Blockchain </a><br/>Dec 21, 2023</td></tr>
-    <tr><td><a href="https://open.spotify.com/episode/66lW556c5Mb3HP8T8as9R3?si=Nb_YQDTTR7OVNFnDQy4Ong&nd=1&dlsi=7cc130de11404bdc" target="_blank"><img width="140px" src=https://github.com/Mugen-Builders/.github/assets/153661799/07562c2f-51c4-4ab2-81c3-9fadffebe0dc></a></td>
-<td><a href="https://open.spotify.com/episode/66lW556c5Mb3HP8T8as9R3?si=Nb_YQDTTR7OVNFnDQy4Ong&nd=1&dlsi=7cc130de11404bdc" target="_blank">Jathin Jagannath: Crypto Hipster </a><br/>Dec 18, 2023</td></tr>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Nl-loihsT4k" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/Nl-loihsT4k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Nl-loihsT4k" target="_blank"> Gabriel Barros : Brave New Coin  </a><br/>Dec 11, 2023</td></tr>
-    <tr><td><a href="https://open.spotify.com/episode/0wNbblabYJ7cQxIMgYVM6d?si=zP9LWqB6Rr6pRPq9SBHQbw&nd=1&dlsi=111e5585cf1542ab" target="_blank"><img width="140px" src="https://github.com/Mugen-Builders/.github/assets/153661799/cd6e85dd-632b-4f90-8dfe-fab0fa679e87"></a></td>
-<td><a href="https://open.spotify.com/episode/0wNbblabYJ7cQxIMgYVM6d?si=zP9LWqB6Rr6pRPq9SBHQbw&nd=1&dlsi=111e5585cf1542ab" target="_blank">João Garcia : Blockhash  </a><br/>Dec 5, 2023</td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=F7gSTnXRwJQ" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/F7gSTnXRwJQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=F7gSTnXRwJQ" target="_blank">Gabriel Barros: ETH Istanbul </a><br/>Nov 24, 2023</td></tr>
-<!-- YOUTUBE:END -->
-</tbody>
-  </table>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" height="30"> Developer opportunities
 
