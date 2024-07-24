@@ -1,6 +1,11 @@
+Welcome to Mugen-Builders; we are the Developer Advocates at Cartesi dedicated to empowering developers in their web3 building journey. We are a group of enthusiastic mentors, educators, and innovators committed to teaching, mentoring, and onboarding developers into the dynamic world of web3.
+
+Cartesi is a modular blockchain protocol that provides developers with access to a full Linux environment through its native virtual machine, combined with high-performance rollups designed to support the creation of next-generation dApps. Cartesi Rollups is layer-2 solution for scalable smart contracts, offering a blend of on-chain and off-chain computation. It opens up new possibilities for developing decentralized applications with real-world computations without compromising decentralization.
+
+Mugen-Builders are here to help you unlock your potential and get building! Join us in exploring, learning, and building the future of decentralized technology together.
+
+
 <div align="center">
-  
-# <img src="https://github.com/Mugen-Builders/.github/assets/153661799/aa6baa92-f04d-45cd-ba51-bef1f22e02e5" width="50px" /> &nbsp; We Are Mugen &nbsp; <img src="https://github.com/Mugen-Builders/.github/assets/153661799/aa6baa92-f04d-45cd-ba51-bef1f22e02e5" width="50px" />
 
 ![GitHub stars](https://img.shields.io/github/stars/Mugen-Builders?style=social)
 ![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/Mugen-Builders/repos&query=$.length&label=Repositories)
@@ -9,35 +14,26 @@
 
 </div>
 
-Welcome to **Mugen-Builders**, a community-driven initiative that provides resources and information to developers exploring **Cartesi Rollups** technology. **Mugen** is a realm or plane of existence containing infinite space.
+## Who are you?
 
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/Mugen-Builders/.github/assets/153661799/7d329749-d5ed-4aa3-a557-08054d7f9c40)
-
-
-## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/7ed08d4c-89f4-4bde-a635-0b332affbd5d" width="30" height="30">  About Cartesi Rollups
-Cartesi Rollups is an innovative layer-2 solution for scalable smart contracts, offering a unique blend of on-chain and off-chain computation. It opens up new possibilities for developing decentralized applications with real-world computations without compromising decentralization.
-
-## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/4fa727b3-2bc2-4606-b9db-cead22407a12" width="30" height="30">  Who are you?
-
-| I am fresh new. I don't even know where to start | I just started, but I want some guidance | I'm experienced, just want some fresh inspiration |
-| ----------------------- | ------------------------| -----------------------|
-| I welcome you to Mugen. Please check the [Cartesi Quickstart Guide](https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/). For a quick playaround, you can check this repo [QuickEnvironment Cartesi](https://github.com/Mugen-Builders/QuickEnvironmentCartesi).| What about seeing some practical examples? See the [Resources](#-resources) and  [Tools](#-tools) sections! |  Want some inspiration? What about seeing what's being built right now? See the [Rolluplab.io](https://rolluplab.io/). What about seeing **what is under the hood?** Please check out the [Core infrastructure repositories](#-core-infrastructure-repositories).|
-
-##  <img src="https://github.com/Mugen-Builders/.github/assets/153661799/0d1a99d2-d0a3-468a-be51-20554f3da909" width="30" height="30"> Quickstart Guide
-- **Step 1:** Explore <a href= https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/ target="_blank">Cartesi Quickstart Guide</a> - For the basic understanding of Cartesi Rollups.
-- **Step 2:** Explore <a href= https://github.com/cartesi/application-templates target="_blank">Cartesi Application Templates</a> - For the basic examples provided by cartesi.
+### I am new to Web3
+- Start with the [Cartesi Quickstart Guide](https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/).
+- We have a free 1.5 hours course at Udemy. [Cartesi dApp Developer Masterclass](https://www.udemy.com/course/cartesi-masterclass/).
+### I am familiar with web3
+- Take a look at some practical examples
+  - We have a tutorials section in our documentation [here](https://docs.cartesi.io/cartesi-rollups/1.3/tutorials/calculator/).
+  - More pratical examples in this list of repositories [here](https://github.com/orgs/Mugen-Builders/repositories).
+- Dive deeper into our [Documentation](https://docs.cartesi.io/cartesi-rollups/1.3/).
+### I am a seasoned web3 developer
+-  Check out the core infra repos in the [Cartesi Organization](https://github.com/cartesi)
+-  If you want some inspiration to create new applications, check our [RollupLab](rolluplab.io)
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Resources 
 
-- [Cartesi Documentation](https://docs.cartesi.io): Comprehensive guides and API references. Where everything technical is detailed.
-
-- [Video tutorial](https://www.udemy.com/course/the-cartesi-dapp-developer-masterclass/learn/) - The Cartesi dApp Developer Masterclass on Udemy.
-
-- [Cartesi Blog](https://cartesi.io/blog): The official blog of Cartesi, where you can find the latest news and updates.
-
-- [Rolluplab](https://rolluplab.io/): Cartesi community’s repository of proof of concepts, hackathon projects, and experimental DApps developed with Cartesi Rollups.
-
-
+- [Official Web Site](https://cartesi.io/) - The Cartesi Official web site for all information related.
+- [Cartesi Documentation](https://docs.cartesi.io) - Comprehensive guides and API references. Where everything technical is detailed.
+- [Video tutorial](https://www.udemy.com/course/cartesi-masterclass/) - The Cartesi dApp Developer Masterclass on Udemy
+- [Rolluplab](https://rolluplab.io/) - Cartesi community’s repository of proof of concepts, hackathon projects, and experimental DApps developed with Cartesi Rollups.
 
 
 ## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Tools
