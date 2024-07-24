@@ -21,7 +21,7 @@ Mugen-Builders are here to help you unlock your potential and get building! Join
 | Start with the [Cartesi Quickstart Guide](https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/).   | We have a tutorials section in our documentation [here](https://docs.cartesi.io/cartesi-rollups/1.3/tutorials/calculator/).     | The Core infra repos in the [Cartesi Organization](https://github.com/cartesi)    |
 | Udemy Course. [Cartesi dApp Developer Masterclass](https://www.udemy.com/course/cartesi-masterclass/).    | List of repositories [here](https://github.com/orgs/Mugen-Builders/repositories).       | For inspiration, check our [RollupLab](rolluplab.io)      |
 
-## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Resources 
+## Resources 
 
 - [Official Web Site](https://cartesi.io/) - The Cartesi Official web site for all information related.
 - [Cartesi Documentation](https://docs.cartesi.io) - Comprehensive guides and API references. Where everything technical is detailed.
@@ -30,7 +30,7 @@ Mugen-Builders are here to help you unlock your potential and get building! Join
 - [Discord Open Community](https://discord.gg/eZ6HehDzYK) - Cartesi main community channel. 
 
 
-## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/91fd1cce-281c-43c6-ad97-cd5fe68c832e" width="30" height="30"> Tools
+## Tools
 
 - [Cartesi CLI](https://docs.cartesi.io/cartesi-rollups/1.3/quickstart/)  - A CLI tool to bootstrap, build and deploy Cartesi applications.
 
@@ -51,7 +51,7 @@ Mugen-Builders are here to help you unlock your potential and get building! Join
 - [python-wallet](https://github.com/jplgarcia/python-wallet/tree/main): Python-based Wallet Implementation for Cartesi dApps.
 
 
-## <img src="https://github.com/Mugen-Builders/.github/assets/153661799/37e76950-91d7-4e25-8cc9-2e70bf5236f0" width="30" height="30"> Core infrastructure repositories
+## Core infrastructure repositories
 - <a href= https://github.com/cartesi target="_blank"> Cartesi Repository </a>- You can find everything related to the building blocks of the Cartesi Rollups framework.
 - <a href= https://github.com/cartesi/machine-emulator target="_blank"> Cartesi Machine Emulator </a> - The Cartesi Machine Emulator is the reference off-chain implementation of the Cartesi Machine Specification.
 - <a href= https://github.com/cartesi/rollups-node target="_blank"> Rollups Node </a>- The Cartesi Node is the part of the Cartesi Rollups Framework that is responsible for handling the communication between the on-chain smart contracts and the Cartesi Machine.
@@ -69,6 +69,16 @@ Get access to up to $5000, mentorship, and endless opportunities. Whether you ar
 ### Community Grants Program
 
 Ready for a challenge? Join the Cartesi Community Grants Program! We fund projects up to $50,000 that contribute to the Cartesi ecosystem. Learn more [here](https://app.charmverse.io/cartesi-grants-program/cartesi-grants-program-30627419508637854)! 
+
+### Bounty program
+
+Check our [Builder Bounties Program](https://mugenbuilders.notion.site/Builder-Bounties-20cb309e59e943e2abf6c5ce1397ea36) page and work your way through video tutorials, learn about the theory and kickstart your journey to start building! 
+
+### Repository contribution and GitPOAP
+
+You can claim a commemorative NFT for your 2024 Cartesi contributions! Those who have contributed to Cartesi’s core infrastructure repositories are eligible for a free-to-mint POAP. 
+
+Claim yours: https://www.gitpoap.io/gp/1090
 
 ## Community and Support
 Join our **vibrant community**:
