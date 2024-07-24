@@ -63,7 +63,7 @@ Mugen-Builders are here to help you unlock your potential and get building! Join
 
 ### Developer Advocacy Seed Grants
 
-Get access to up to $5000, mentorship, and endless opportunities. Whether you are a junior developer or an experienced builder, join us to transform your talent into impactful tools and applications. Click [the link](https://mugenbuilders.notion.site/DevAd-Seed-Grants-dc0a2420a08c49a983b919aa9246dcbc) for details on Seed Grants.
+Get access to up to $5000, mentorship, and endless opportunities. Whether you are a junior developer or an experienced builder, join us to transform your talent into impactful tools and applications. Click [the link](https://mugenbuilders.notion.site/Seed-Grants-51880c30fb7d4f9180cce04cc19601cf) for details on Seed Grants.
 
 
 ### Community Grants Program
