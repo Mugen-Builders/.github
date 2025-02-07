@@ -61,18 +61,9 @@ Mugen-Builders are here to help you unlock your potential and get building! Join
 
 ## How can I contribute?
 
-### Developer Advocacy Seed Grants
-
-Get access to up to $5000, mentorship, and endless opportunities. Whether you are a junior developer or an experienced builder, join us to transform your talent into impactful tools and applications. Click [the link](https://mugenbuilders.notion.site/Seed-Grants-51880c30fb7d4f9180cce04cc19601cf) for details on Seed Grants.
-
-
 ### Community Grants Program
 
-Ready for a challenge? Join the Cartesi Community Grants Program! We fund projects up to $50,000 that contribute to the Cartesi ecosystem. Learn more [here](https://app.charmverse.io/cartesi-grants-program/cartesi-grants-program-30627419508637854)! 
-
-### Bounty program
-
-Check our [Builder Bounties Program](https://mugenbuilders.notion.site/Builder-Bounties-20cb309e59e943e2abf6c5ce1397ea36) page and work your way through video tutorials, learn about the theory and kickstart your journey to start building! 
+Ready for a challenge? Join the Cartesi Community Grants Program! We fund projects that contribute to the Cartesi ecosystem. Learn more [here](https://app.charmverse.io/cartesi-grants-program/cartesi-grants-program-42185375224664257)! 
 
 ### Repository contribution and GitPOAP
 
@@ -92,4 +83,4 @@ On [Discord](https://discord.gg/eZ6HehDzYK), connect with the core team and fell
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcartesiproject&style=social&label=Cartesi)](https://twitter.com/cartesiproject)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJ2As__5GSeP6yPBGPbzSOw?style=social&label=Cartesiproject)](https://www.youtube.com/@Cartesiproject)
 
-&copy; 2024 Mugen Builders. 
+&copy; 2025 Mugen Builders. 
